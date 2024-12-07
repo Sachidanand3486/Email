@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+#sendEmailButton{
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    background-color: yellow;
+    font-weight: bold;
+}
+#status {
+    margin-top: 20px;
+    font-weight: bold;
+}
+.error {
+    color: red;
+}
+.success {
+    color: green;
+}
